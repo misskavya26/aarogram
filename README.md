@@ -12,5 +12,3 @@ Built with React JS as frontend framework, Redux as State Management, Node JS AN
 # For Running Web Application,
 * In folder "Aarogram", run command "npm run dev"
 * It will run the Web Application into the browser.
-
-Created Website:- 
